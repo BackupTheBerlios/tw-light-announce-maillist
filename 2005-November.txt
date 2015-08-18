@@ -1,0 +1,21 @@
+From youbastrd at rogers.com  Wed Nov  2 17:44:04 2005
+From: youbastrd at rogers.com (t t)
+Date: Wed, 2 Nov 2005 11:44:04 -0500 (EST)
+Subject: [Tw-light-announce] Current status of Timewarp/TW-Light Forums
+Message-ID: <20051102164404.57859.qmail@web88206.mail.re2.yahoo.com>
+
+Hi,
+ 
+The forums currently are experiencing difficulties connecting to the sourceforge database.  The root cause is likely that there are too many connections to the database.  Sourceforge has forced users to switch to a newer version of MySql, and today's the last day to migrate.  We've been prepared for a couple of weeks, but other admins have probably left it to the last minute.  
+ 
+The end result is that we should just wait out the high load.  I would estimate that things should calm down within two days (by November 4, 2005).  
+ 
+Cheers and thanks for your patience!
+ 
+--yB!
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/tw-light-announce/attachments/20051102/545895a3/attachment.html>
+

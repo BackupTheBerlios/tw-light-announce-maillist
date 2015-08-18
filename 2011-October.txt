@@ -1,0 +1,24 @@
+From yurand2 at gmail.com  Sun Oct  9 01:02:51 2011
+From: yurand2 at gmail.com (Yura Siamashka)
+Date: Sun, 9 Oct 2011 02:02:51 +0300
+Subject: [Tw-light-announce] project hosting moving and tw-light 0.4
+Message-ID: <20111009020251.5a552d38.yurand2@gmail.com>
+
+Hi
+
+I just want to tell all who interested, since berlios soon will be closed. I moved the project to Google Code.
+
+http://code.google.com/p/tw-light/
+
+New Home Page is here:
+
+http://tw-light.appspot.com/
+
+Also I just released TW-Light 0.4 You can download it here:
+
+http://code.google.com/p/tw-light/downloads/list
+
+-- 
+Yura Siamashka <yurand2 at gmail.com>
+
+
